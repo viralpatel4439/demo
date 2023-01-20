@@ -166,13 +166,13 @@
 //   console.log(data);
 // });
 
-var c = 10;
-var a = function () {
-  console.log(b);
-  var b = 11;
-  console.log(b);
-};
-a();
+// var c = 10;
+// var a = function () {
+//   console.log(b);
+//   var b = 11;
+//   console.log(b);
+// };
+// a();
 // function a() {
 //   console.log("bye");
 // }
